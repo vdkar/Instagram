@@ -1,6 +1,6 @@
 <?php
 
-namespace vdkar\Instagram;
+namespace Vdkar\Instagram;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
